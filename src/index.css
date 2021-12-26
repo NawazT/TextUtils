@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
+.conatiner {
+  padding: 4rem 0;
+}
+#aboutHeading {
+  color:coral;
+  padding: auto;
+  margin-top: 7rem;
+}
