@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+This is my second react app. It helps me learn various react concept like components, 
+props, hooks  and I look forward to learning more by building more projects. 
+
+### About App
+ this is a text utility app as the name suggests. You can copy paste the text you want to edit, this offers tools like 
+ converting selected words to uppercase/lowercase. I'm currently woeking on the save as pdf button. from where the user
+ can create and save the text in a pdf form in their local system. 
+ My favourite feature of the app is Dark Mode.
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
